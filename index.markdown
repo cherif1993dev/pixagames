@@ -1,6 +1,3 @@
----
-
----
 <div class="game-row">
   <a href="https://html5.gamedistribution.com/e61f3d39edb14176973383e5be036bb8/" class="game-box">
     <img src="https://html5.gamedistribution.com/rvvASMiM/e61f3d39edb14176973383e5be036bb8/stick2p384.jpg" alt="Game 1">
