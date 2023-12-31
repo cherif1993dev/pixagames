@@ -68,8 +68,11 @@
     <a href="link-to-app-4">
       <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 4"></a>
 	  
-    <a href="link-to-app-4">
+    <a href="link-to-app-5">
       <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 5"></a>
+	  
+	  href="link-to-app-6">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 6"></a>
 	  
   </div>
 </div>
