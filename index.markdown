@@ -212,7 +212,9 @@ box-sizing: inherit ;
 scrollbar-width: none ;
 }
 body{
-
+margin: 0 ;
+height: 100vh ;
+display: flex ;
 user-select: none ;
 align-items: center ;
 justify-content: center ;
