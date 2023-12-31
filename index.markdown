@@ -52,6 +52,33 @@
   </a>
 </div>
 
+<div class="app-container">
+  <div class="app-label">More Apps</div>
+  <div class="app-box touch-scroll">
+    <div class="app-icons">
+    <a href="https://play.google.com/store/apps/details?id=com.samoyo.haroonsapp&hl=en_US">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 1"></a>
+    <a href="link-to-app-2">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 2"></a>
+    <a href="link-to-app-3">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 3"></a>
+    <a href="link-to-app-4">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 4"></a>
+    <a href="link-to-app-4">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 5"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.samoyo.haroonsapp&hl=en_US">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 1"></a>
+    <a href="link-to-app-2">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 2"></a>
+    <a href="link-to-app-3">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 3"></a>
+    <a href="link-to-app-4">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 4"></a>
+    <a href="link-to-app-4">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 5"></a>
+  </div>
+</div>
+  </div>
 
 
 
@@ -119,5 +146,49 @@
 .play-icon i {
   font-size: 20px;
 }
+
+.app-container {
+  position: relative;
+        top: 40px;
+}
+
+.app-label {
+position: relative;
+    padding: 1px 5px;
+    font-weight: bold;
+    background-color: #464646;
+    background-color: #f5f5f5;
+    color: #464646;
+    box-shadow: 0 2px 6px 1px #0000001f ;
+}
+.app-box {
+  width: 310px;
+  overflow-x: scroll;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch; /* enable smooth scrolling on iOS */
+  padding-top:10px;
+}
+
+.app-icons {
+  display: inline-block;
+  white-space: nowrap;
+
+}
+
+.app-icons a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.app-icons a:last-child {
+  margin-right: 0;
+}
+
+.app-icons img {
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+}
+
 
 </style>
