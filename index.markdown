@@ -57,34 +57,34 @@
   <div class="app-box touch-scroll">
     <div class="app-icons">
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 1"></a>
+      <img src="#" alt="App 1"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 2"></a>
+      <img src="#" alt="App 2"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 3"></a>
+      <img src="#" alt="App 3"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 4"></a>
+      <img src="#" alt="App 4"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 5"></a>
+      <img src="#" alt="App 5"></a>
 	  
 	 <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 6"></a>
+      <img src="#" alt="App 6"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 7"></a>
+      <img src="#" alt="App 7"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 8"></a>
+      <img src="#" alt="App 8"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 9"></a>
+      <img src="#" alt="App 9"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App10"></a>
+      <img src="#" alt="App10"></a>
 	  
   </div>
 </div>
@@ -106,7 +106,7 @@
   justify-content: center;
   width: 180px;
   height: 200px;
-  background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgfff;
+  background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   overflow: hidden;
@@ -142,8 +142,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgFFC107;
-  color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgfff;
+  background-color: #FFC107;
+  color: #fff;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -170,10 +170,10 @@
 position: relative;
     padding: 1px 5px;
     font-weight: bold;
-    background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg464646;
-    background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgf5f5f5;
-    color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg464646;
-    box-shadow: 0 2px 6px 1px https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg0000001f ;
+    background-color: #464646;
+    background-color: #f5f5f5;
+    color: #464646;
+    box-shadow: 0 2px 6px 1px #0000001f ;
 }
 .app-box {
   width: 310px;
@@ -226,7 +226,7 @@ display: flex ;
 user-select: none ;
 align-items: center ;
 justify-content: center ;
-background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpge5e7e9 ;
+background-color: #e5e7e9 ;
 -webkit-tap-highlight-color: transparent ;
 transition: background-color var(--cubic-slider) ;
 }
@@ -270,9 +270,9 @@ position: relative;
 align-items: flex-start ;
 border-radius: inherit ;
 justify-content: flex-end ;
-background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgf5f5f5 ;
+background-color: #f5f5f5 ;
 padding: .95em 0.6em 0 1.2em ;
-box-shadow: 0 2px 6px 1px https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg0000001f ;
+box-shadow: 0 2px 6px 1px #0000001f ;
 transition: height var(--cubic-header), box-shadow var(--duration), padding var(--duration) ease-in-out ;
 }
 .player__header.open-header {
@@ -408,7 +408,7 @@ width: 49.48% ;
 .player__title {
 font-size: .7em ;
 font-weight: bold ;
-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg00000086 ;
+color: #00000086 ;
 }
 .progres {
 width: 90% ;
@@ -416,7 +416,7 @@ height: .25em ;
 cursor: pointer ;
 border-radius: 1em ;
 touch-action : none ;
-background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpge5e7ea ;
+background-color: #e5e7ea ;
 transition: width var(--cubic-header) ;
 }
 .player__controls.move .progres{
@@ -429,7 +429,7 @@ display: flex ;
 position: relative ;
 align-items: center ;
 border-radius: inherit ;
-background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg999 ;
+background-color: #999 ;
 }
 .progres__filled::before {
 right: 0 ;
@@ -438,7 +438,7 @@ content: " " ;
 height: .35em ;
 border-radius: 50% ;
 position: absolute ;
-background-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg464646 ;
+background-color:#464646 ;
 }
 .player__playlist {
 height: 100% ;
@@ -454,7 +454,7 @@ display: flex ;
 cursor: pointer ;
 margin-bottom: .5em ;
 padding-bottom: .7em ;
-border-bottom: .1em solid https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgd8d8d859 ;
+border-bottom: .1em solid #d8d8d859 ;
 }
 .player__song .player__context {
 line-height: 1.5 ;
@@ -466,7 +466,7 @@ font-size: .88em ;
 .player__song-time {
 font-size: .65em ;
 font-weight: bold ;
-color: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg00000079 ;
+color: #00000079 ;
 height: fit-content ;
 align-self: flex-end ;
 }
@@ -567,7 +567,7 @@ $(document).ready(function() {
 
 "use strict";
 // add elemnts
-const bgBody = ["https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpge5e7e9", "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgff4545", "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgf8ded3", "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgffc382", "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgf5eda6", "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgffcbdc", "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpgdcf3f3"];
+const bgBody = ["#e5e7e9", "#ff4545", "#f8ded3", "#ffc382", "#f5eda6", "#ffcbdc", "#dcf3f3"];
 const body = document.body;
 const player = document.querySelector(".player");
 const playerHeader = player.querySelector(".player__header");
