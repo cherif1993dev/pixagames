@@ -211,17 +211,7 @@ html *::after {
 box-sizing: inherit ;
 scrollbar-width: none ;
 }
-body{
-margin: 0 ;
-height: 100vh ;
-display: flex ;
-user-select: none ;
-align-items: center ;
-justify-content: center ;
-background-color: #e5e7e9 ;
--webkit-tap-highlight-color: transparent ;
-transition: background-color var(--cubic-slider) ;
-}
+
 .img {
 width: 100% ;
 flex-shrink: 0;
@@ -466,58 +456,6 @@ align-self: flex-end ;
 display: none !important ;}
 
 
-
- // Define an array of audio links
-const audioLinks = [
-  {
-    name: 'AUDIO 1',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2023/03/14/audio_676747013a.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-  {
-    name: 'AUDIO 2',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792cb.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-    {
-    name: 'AUDIO 3',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2023/03/14/audio_676747013a.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-  {
-    name: 'AUDIO 4',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792cb.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-    {
-    name: 'AUDIO 5',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2023/03/14/audio_676747013a.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-  {
-    name: 'AUDIO 6',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792cb.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-    {
-    name: 'AUDIO 7',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2023/03/14/audio_676747013a.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-  {
-    name: 'AUDIO 8',
-    artist: 'ARTIST',
-    url: 'https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792cb.mp3',
-    imgSrc: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg'
-  },
-];
 
 // Get the playlist element
 const playlist = document.querySelector('.player__playlist');
