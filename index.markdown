@@ -56,7 +56,24 @@
   <div class="app-label">More Apps</div>
   <div class="app-box touch-scroll">
     <div class="app-icons">
-
+    <a href="https://play.google.com/store/apps/details?id=com.samoyo.haroonsapp&hl=en_US">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 1"></a>
+	  
+    <a href="link-to-app-2">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 2"></a>
+	  
+    <a href="link-to-app-3">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 3"></a>
+	  
+    <a href="link-to-app-4">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 4"></a>
+	  
+    <a href="link-to-app-5">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 5"></a>
+	  
+	 <a href="link-to-app-6">
+      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 6"></a>
+	  
   </div>
 </div>
   </div>
