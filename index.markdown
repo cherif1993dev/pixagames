@@ -57,34 +57,34 @@
   <div class="app-box touch-scroll">
     <div class="app-icons">
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 1"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 1"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 2"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 2"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 3"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 3"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 4"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 4"></a>
 	  
     <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 5"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 5"></a>
 	  
 	 <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 6"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 6"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 7"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 7"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 8"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 8"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App 9"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App 9"></a>
 	  
 	  <a href="#">
-      <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/music-icon-mohammed-jabir-ap.jpg" alt="App10"></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/11104/11104234.png" alt="App10"></a>
 	  
   </div>
 </div>
