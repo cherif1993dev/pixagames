@@ -137,6 +137,14 @@
   padding: 0;
   text-align: center;
 }
+.app-label {
+position: relative;
+    padding: 1px 5px;
+    font-weight: bold;
+    background-color: #464646;
+    background-color: #f5f5f5;
+    color: #464646;
+    box-shadow: 0 2px 6px 1px #0000001f ;
 
 .app-box {
   width: 310px;
