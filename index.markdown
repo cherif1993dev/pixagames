@@ -138,4 +138,33 @@
   text-align: center;
 }
 
+.app-box {
+  width: 310px;
+  overflow-x: scroll;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch; /* enable smooth scrolling on iOS */
+  padding-top:10px;
+}
+
+.app-icons {
+  display: inline-block;
+  white-space: nowrap;
+
+}
+
+.app-icons a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.app-icons a:last-child {
+  margin-right: 0;
+}
+
+.app-icons img {
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+}
+
   </style>
