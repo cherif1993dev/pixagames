@@ -185,3 +185,32 @@ position: relative;
 }
 
   </style>
+  
+  <script>
+$(document).ready(function() {
+  var isDragging = false;
+  var touchX;
+
+  $('.touch-scroll').on('pointerdown', function(e) {
+    isDragging = true;
+    touchX = e.pageX;
+  }).on('pointermove', function(e) {
+    if (isDragging) {
+      var moveX = e.pageX;
+      var diffX = touchX - moveX;
+      if (diffX > 0) {
+        $(this).scrollLeft($(this).scrollLeft() + diffX);
+      } else {
+        $(this).scrollLeft($(this).scrollLeft() - Math.abs(diffX));
+      }
+      touchX = moveX;
+    }
+  }).on('pointerup', function() {
+    isDragging = false;
+  }).on('pointerleave', function() {
+    isDragging = false;
+  });
+});
+
+
+  </script>
