@@ -153,6 +153,15 @@ position: relative;
   -webkit-overflow-scrolling: touch; /* enable smooth scrolling on iOS */
   padding-top:10px;
 }
+.app-container {
+  position: relative;
+        top: 40px;
+}
+
+.app-container {
+  position: relative;
+        top: 40px;
+}
 
 .app-icons {
   display: inline-block;
