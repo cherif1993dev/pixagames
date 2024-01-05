@@ -104,13 +104,13 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 180px;
-  height: 200px;
+  width: 170px;
+  height: 190px;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   overflow: hidden;
-  margin: 0 10px;
+  margin: 0px 5px;
   text-decoration: none;
 }
 
