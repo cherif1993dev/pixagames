@@ -1,24 +1,24 @@
 <div class="game-row">
-  <a href="https://html5.gamedistribution.com/e61f3d39edb14176973383e5be036bb8/" class="game-box">
-    <img src="https://html5.gamedistribution.com/rvvASMiM/e61f3d39edb14176973383e5be036bb8/stick2p384.jpg" alt="Game 1">
+  <a href="https://html5.gamedistribution.com/33ccd710bc514da4aef7c3500e86f06d/" class="game-box">
+    <img src="https://img.gamedistribution.com/33ccd710bc514da4aef7c3500e86f06d-512x512.jpeg" alt="Game 1">
     <div class="game-info">
-      <h2>STICKMAN FIGHTING 2 PLAYER</h2>
+      <h2>Agent Fight 3D</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/0605fe6f1da5420e8ca8586247c88a15/" class="game-box">
-    <img src="https://img.gamedistribution.com/0605fe6f1da5420e8ca8586247c88a15-512x512.jpeg" alt="Game 2">
+  <a href="https://html5.gamedistribution.com/acc4557b7ffd48b7808323f3b9ae30d6/" class="game-box">
+    <img src="https://img.gamedistribution.com/acc4557b7ffd48b7808323f3b9ae30d6-512x512.jpeg" alt="Game 2">
     <div class="game-info">
-      <h2>STICKMAN TEAM FORCE 2</h2>
+      <h2>Hero 3 Flying Robot</h2>
     </div>
   </a>
 </div><div class="game-row">
-  <a href="https://html5.gamedistribution.com/7c3957999e85405bba3b4a25f2a15529/" class="game-box">
-    <img src="https://img.gamedistribution.com/7c3957999e85405bba3b4a25f2a15529-512x512.jpeg" alt="Game 3">
+  <a href="https://html5.gamedistribution.com/45404e8b6c0943428defb5be568d6793/" class="game-box">
+    <img src="https://img.gamedistribution.com/45404e8b6c0943428defb5be568d6793-512x512.jpeg" alt="Game 3">
     <div class="game-info">
-      <h2>STICKMAN DRAW THE BRIDGE</h2>
+      <h2>Stickman Warriors</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/769bf8665f1f4606b158ef78b47ab974/" class="game-box">
+  <a href="https://html5.gamedistribution.com/cd027ed668ae48e79865312746dd9f0b/" class="game-box">
     <img src="https://img.gamedistribution.com/5fcb5f02c324478b98263fb1fad28617-512x384.jpg" alt="Game 4">
     <div class="game-info">
       <h2>DEFEAT THE MONSTER</h2>
@@ -26,28 +26,43 @@
   </a>
 </div><div class="game-row">
   <a href="https://html5.gamedistribution.com/721d23c521c4447a8f8cedc31377f271/" class="game-box">
-    <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="Game 5">
+    <img src="https://img.gamedistribution.com/cd027ed668ae48e79865312746dd9f0b-512x512.jpg" alt="Game 5">
     <div class="game-info">
-      <h2>GIANT RUSH!</h2>
+      <h2>Hero Masters</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/722176c4785042368e5b4f734cc14b9e/" class="game-box">
-    <img src="https://img.gamedistribution.com/722176c4785042368e5b4f734cc14b9e-512x512.jpeg" alt="Game 6">
+  <a href="https://html5.gamedistribution.com/fed6838590a2405fbc4bc45171a41ded/" class="game-box">
+    <img src="https://img.gamedistribution.com/d7656d887fe04d90869710bad9f74b8a-512x512.jpg" alt="Game 6">
     <div class="game-info">
-      <h2>STICKMAN SWING</h2>
+      <h2>Stick Duel: Battle Hero</h2>
     </div>
   </a>
 </div><div class="game-row">
-  <a href="https://html5.gamedistribution.com/2d529603443d463eaf36c061b71f84ff/" class="game-box">
-    <img src="https://img.gamedistribution.com/2d529603443d463eaf36c061b71f84ff-512x512.jpeg" alt="Game 7">
+  <a href="https://html5.gamedistribution.com/967238ad07b1418088dde654361a84b8/" class="game-box">
+    <img src="https://img.gamedistribution.com/967238ad07b1418088dde654361a84b8-512x512.jpeg" alt="Game 7">
     <div class="game-info">
-      <h2>SPIDEY SWING</h2>
+      <h2>Balloon Hero 2</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/63137d6d920145f68f3efddfe0f45675/" class="game-box">
-    <img src="https://img.gamedistribution.com/63137d6d920145f68f3efddfe0f45675-512x512.png" alt="Game 8">
+  <a href="https://html5.gamedistribution.com/0714d6b7b8244892a784b993f001f37d/" class="game-box">
+    <img src="https://img.gamedistribution.com/0714d6b7b8244892a784b993f001f37d-512x512.jpeg" alt="Game 8">
     <div class="game-info">
-      <h2>VEX 3 XMAS</h2>
+      <h2>Stickman Super Hero</h2>
+    </div>
+  </a>
+</div>
+
+<div class="game-row">
+  <a href="https://html5.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2/" class="game-box">
+    <img src="https://img.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2-512x512.jpeg", alt="Game 7">
+    <div class="game-info">
+      <h2>Hero Runner</h2>
+    </div>
+  </a>
+  <a href="https://html5.gamedistribution.com/06d1d76f73ef4eac866812733206a5e9/" class="gae-box">
+    <img src="https://img.gamedistribution.com/06d1d76f73ef4eac866812733206a5e9-512x512.jpeg" alt="Game 8">
+    <div class="game-info">
+      <h2>Stickman Training Hero</h2>
     </div>
   </a>
 </div>
@@ -139,8 +154,10 @@
 }
 
 .app-container {
-  position: relative;
+		position: relative;
         top: 40px;
+		/*  hide app-container DIV */
+		visibility: hidden;
 }
 
 .app-container {
