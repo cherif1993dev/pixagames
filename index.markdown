@@ -37,7 +37,9 @@
       <h2>Stick Duel: Battle Hero</h2>
     </div>
   </a>
-</div><div class="game-row">
+</div>
+
+<div class="game-row">
   <a href="https://html5.gamedistribution.com/967238ad07b1418088dde654361a84b8/" class="game-box">
     <img src="https://img.gamedistribution.com/967238ad07b1418088dde654361a84b8-512x512.jpeg" alt="Game 7">
     <div class="game-info">
@@ -54,7 +56,7 @@
 
 <div class="game-row">
   <a href="https://html5.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2/" class="game-box">
-    <img src="https://img.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2-512x512.jpeg", alt="Game 7">
+    <img src="https://img.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2-512x512.jpeg" alt="Game 7">
     <div class="game-info">
       <h2>Hero Runner</h2>
     </div>
