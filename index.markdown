@@ -18,10 +18,10 @@
       <h2>Stickman Warriors</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/cd027ed668ae48e79865312746dd9f0b/" class="game-box">
-    <img src="https://img.gamedistribution.com/5fcb5f02c324478b98263fb1fad28617-512x384.jpg" alt="Game 4">
+  <a href="https://html5.gamedistribution.com/06d1d76f73ef4eac866812733206a5e9/" class="game-box">
+    <img src="https://img.gamedistribution.com/06d1d76f73ef4eac866812733206a5e9-512x512.jpeg" alt="Game 4">
     <div class="game-info">
-      <h2>DEFEAT THE MONSTER</h2>
+      <h2>Stickman Training Hero</h2>
     </div>
   </a>
 </div><div class="game-row">
