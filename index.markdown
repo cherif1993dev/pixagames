@@ -1,4 +1,18 @@
 <div class="game-row">
+  <a href="https://html5.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2/" class="game-box">
+    <img src="https://img.gamedistribution.com/0eae77323b9d4ed394dda297bf0148c2-512x512.jpeg" alt="Game 7">
+    <div class="game-info">
+      <h2>Hero Runner</h2>
+    </div>
+  </a>
+  <a href="https://html5.gamedistribution.com/06d1d76f73ef4eac866812733206a5e9/" class="gae-box">
+    <img src="https://img.gamedistribution.com/06d1d76f73ef4eac866812733206a5e9-512x512.jpeg" alt="Game 8">
+    <div class="game-info">
+      <h2>Stickman Training Hero</h2>
+    </div>
+  </a>
+</div>
+<div class="game-row">
   <a href="https://html5.gamedistribution.com/33ccd710bc514da4aef7c3500e86f06d/" class="game-box">
     <img src="https://img.gamedistribution.com/33ccd710bc514da4aef7c3500e86f06d-512x512.jpeg" alt="Game 1">
     <div class="game-info">
